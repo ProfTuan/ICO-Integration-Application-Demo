@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.uth.sbmi.swrliconbm">
+    <module_version install_time="1734901557477" last="true" origin="installer" specification_version="1.0">
+        <file crc="1180702889" name="config/Modules/edu-uth-sbmi-swrliconbm.xml"/>
+        <file crc="1492771849" name="modules/edu-uth-sbmi-swrliconbm.jar"/>
+        <file crc="401979321" name="modules/ext/swrl-ico-lib.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.uth.sbmi">
+    <module_version install_time="1734901561722" last="true" origin="installer" specification_version="1.0">
+        <file crc="117797129" name="config/Modules/edu-uth-sbmi.xml"/>
+        <file crc="558249217" name="modules/edu-uth-sbmi.jar"/>
+    </module_version>
+</module>

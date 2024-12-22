@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="edu.uth.sbmi.swrldemo">
+    <module_version install_time="1734901561544" last="true" origin="installer" specification_version="1.0">
+        <file crc="2834178896" name="config/Modules/edu-uth-sbmi-swrldemo.xml"/>
+        <file crc="1987484655" name="modules/edu-uth-sbmi-swrldemo.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,5 @@
+
+.DS_Store
+/swrl-ico/target
+/swrl-ico/src/main/resources/backup
+*.owl
