@@ -3,3 +3,8 @@
 /swrl-ico/target
 /swrl-ico/src/main/resources/backup
 *.owl
+/swrl-ico-demo-app/build
+/swrl-ico-demo-app/build
+/swrl-ico-demo-app/build/cluster
+/swrl-ico-demo-app/build/cluster
+/swrl-ico-demo-app/build
